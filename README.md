@@ -5,3 +5,5 @@ cd TodoList-__React-TypeScript
 npm install
 npm start
 ```
+
+# author   :    Hasmik Minasyan 
